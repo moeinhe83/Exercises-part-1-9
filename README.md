@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program description ===> The Ninth Exercise
 
-Example ===> Write A Program To Convert The Above Tuple Into a string => ('m', 'o', 'e', 'i', 'n')
+Example ===> Write A Program To Convert The Above Tuple Into A string => ('m', 'o', 'e', 'i', 'n')
 
 Description Of Files:
 
